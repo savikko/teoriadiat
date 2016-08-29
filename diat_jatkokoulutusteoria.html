@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'}
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-slide-content {padding-left: 5em}
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+
+    </textarea>
+    <script src="./remark/out/remark.js">
+    </script>
+    <script>
+
+remark.macros.video = function (url) {
+  var url = this;
+  return '<video width="100%" controls><source src="' + url + '"/></source></video>';
+};
+
+var slideshow = remark.create({
+  sourceUrl: 'diat_jatkokoulutusteoria.md'
+});
+
+remark.macros.scale = function (percentage) {
+  var url = this;
+  return '<img src="' + url + '" style="width: ' + percentage + '" />';
+};
+    </script>
+  </body>
+</html>
