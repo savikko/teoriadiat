@@ -31,14 +31,20 @@ remark.macros.video = function (url) {
   return '<video width="100%" controls><source src="' + url + '"/></source></video>';
 };
 
-var slideshow = remark.create({
-  sourceUrl: 'diat_turvakertaus.md'
-});
+remark.macros.ytvideo = function (url) {
+  var url = this;
+  return '<iframe width="100%" height="70%" src="' +url +'"> </iframe>';
+};
 
 remark.macros.scale = function (percentage) {
   var url = this;
   return '<img src="' + url + '" style="width: ' + percentage + '" />';
 };
+
+var slideshow = remark.create({
+  sourceUrl: 'diat_turvakertaus.md'
+});
+
     </script>
   </body>
 </html>

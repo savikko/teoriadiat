@@ -149,7 +149,7 @@ template: title
 template: video
 class: middle, center
 
-![:video](./peruskoulutuskuvat/SukellusUH2.mp4)
+![:ytvideo](https://www.youtube.com/embed/L--4Zc0q9Qg)
 
 ---
 template: title2

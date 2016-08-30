@@ -28,7 +28,12 @@
 
 remark.macros.video = function (url) {
   var url = this;
-  return '<video width=100% controls><source src="' + url + '"/></source></video>';
+  return '<video width="100%" controls><source src="' + url + '"/></source></video>';
+};
+
+remark.macros.ytvideo = function (url) {
+  var url = this;
+  return '<iframe width="100%" height="70%" src="' +url +'"> </iframe>';
 };
 
 remark.macros.scale = function (percentage) {
