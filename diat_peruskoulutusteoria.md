@@ -31,7 +31,7 @@ background-size: contain
 ---
 template: title
 
-# **TEORIA - PERUSKOULUTUSLUOKKAA VARTEN**
+# TEORIA - PERUSKOULUTUSLUOKKAA VARTEN
 
 .red[**DIOISSA PUUTTEITA TAI NE OVAT KESKEN VIELÄ**]
 
@@ -72,11 +72,11 @@ template: title
 
 -   *teoriatunteja ja jatkokoulutuksen teoriakoe.*
 
--   ***Yli 30vrk taukoa -&gt; 15" totuttelu***
+-   **Yli 30vrk taukoa -&gt; 15" totuttelu**
 
 ---
 
-#**Uloshypyt eli exitit**
+# Uloshypyt eli exitit
 
 - Hyvä exit lyhentää kiipeämis- ja "set-up"-aikaa -&gt; monta ryhmää
   pystyy hyppäämään samalta linjalta
@@ -86,7 +86,7 @@ template: title
 
   -   parantaa exitin stabiiliutta, mikä lisää työskentelyaikaa
 
-- **"set-up"** tarkoittaa kiipeämistä ovelle ”valmis”-asentoon
+- **"set-up"** tarkoittaa kiipeämistä ovelle "valmis"-asentoon
 
 - **"exit"** tarkoittaa uloshyppyä ja rintamasuunnan kääntämistä
   ilmavirtaan
@@ -96,7 +96,7 @@ template: title
 
 ---
 
-#**Tärkeimmät exitin osa-alueet**
+# Tärkeimmät exitin osa-alueet
 
 -   **"tasapaino"** tarkoittaa tasapainoa koneen ovella, mikä vaikuttaa
     stabiiliuteen
@@ -213,7 +213,7 @@ template: title2
 
   -   streamerin ajelehtiminen
 
-  -   lentokoneen ”sorto” ja nopeus linjalla.
+  -   lentokoneen "sorto" ja nopeus linjalla.
 
 ---
 
@@ -256,7 +256,7 @@ template: title2
 
 - **Pääsääntoisesti pilvessä tai pilven läpi ei saa hypätä.**
 
-- *Oppilastoiminnan raja on puolipilvinen sää hyppykorkeuden alapuolella.*
+- **Oppilastoiminnan raja on puolipilvinen sää hyppykorkeuden alapuolella.**
 
 - Pilvet jaetaan ala (&lt;2500m), keski (&lt;5000m) ja yläpilviin (&gt;5000m).
 
@@ -288,63 +288,76 @@ template: title2
 - Pilvet ilmoitetaan taivaan kahdeksasosina:
 
 -   FEW = 1-2/8, lähes selkeää
+
 -   SCATTERED (SCT) = 3-4/8, enintään puolipilvistä
+
 -   BROKEN (BKN) = 5-7/8, melkein pilvistä
+
 -   OVERCAST (OVC) = 8/8, pilvistä
+
 -   CAVOK (Ceiling And Visibility OK) = ei pilviä &lt;1500 m (5000 ft),
     ei Cb-pilviä, vaakanäkyvyys yli 10 km, eikä ilmailulle merkittäviä
     sääesiintymiä
+
 -   SKY CLEAR (SKC) = taivas selkeä
 
 ---
 
 # Jos joudut avaamaan pilvessä
-================================
 
 -   Tarkkaile aina noustessa pilvenpohjien korkeudet - tiedät missä
     pilvi loppuu
+
 -   Lennä puolijarruilla
+
 -   Tee loivaa kaarrosta
+
 -   Tarkkaile koko ajan etu- ja sivusektoria
+
 -   Huuda ja kuutntele, jos epäilet ettet ole ainoa pilvessä avannut
 
-**Termiikki ja turbulenssi**
-============================
+# Termiikki ja turbulenssi
 
 -   Termiikki eli nouseva ilmavirtaus muodostuu auringon lämmittämän
     paikan tai alueen päälle. *Tuuli kaataa termiikin, joten se voi olla
     joko paikan päällä tai alatuulen puolella.*
+
 -   Nostavat ja laskevat ilmavirtaukset ovat normaalisti 1-8 m/s.
     Ukkospilvessä virtaukset ovat jopa 30 m/s ylös ja alas
+
 -   Missä on nouseva- siellä on myös laskeva -virtaus.
+
 -   Turbulenssi on tuulen ja esteiden yhteisvaikutus (10-15x este)
+
 -   **Voimakas turbulenssi voi tyhjentää varjon! -&gt; tunne hyppyalue**
+
 -   **Täyttä liitoa!**
 
-**Lämpötila**
-=============
+---
 
-ilman lämpötila laskee n. 6,5°C / 1000 m
+# Lämpötila
 
--   vaikuttaa mm. inversiot, säärintamat sekä ilmanpaineen vaihtelut
+- Ilman lämpötila laskee n. 6,5°C / 1000 m
 
-esim. jos lämpötila maassa on +10°C → lämpötila
+  - vaikuttaa mm. inversiot, säärintamat sekä ilmanpaineen vaihtelut esim. jos
+  lämpötila maassa on +10°C lämpötila 2000 m:n korkeudessa on - 30°C
 
-2000 m:n korkeudessa on - 30°C
+- Lämpötilan lasku on huomioitava pukeutumisessa
 
-lämpötilan lasku on huomioitava pukeutumisessa
+- Käsineitä on käytettävä aina kun lämpötila on alle 0°C
 
-käsineitä on käytettävä aina kun lämpötila on alle 0°C
-
-**Säätila ja ennusteet**
-========================
+# Säätila ja ennusteet
 
 <http://www.ilmailusaa.fi/>
 
 -   METAR - lentopaikan sää
+
 -   GAFOR - alue-ennuste
+
 -   TAF - lentopaikan lähiajan ennuste
+
 -   SWC - vaikuttavien sääilmiöiden kartta
+
 -   Tuulet lentopinnoilla - tuulitietoja eri korkeuksilta
 
 <http://weather.skydivejkl.fi/>
@@ -357,9 +370,9 @@ Appstoret: AeroWeather
 
 # METAR-sanomat (lentopaikan vallitseva sää)
 
--   METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka
-    laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla
-    vallitsevan säätilan.
+-   METAR-sanoma on ilmaliikenteen käyttöön tarkoitettu sääsanoma, joka
+    laaditaan lentopaikan sääasemalla. Metar kertoo lentoasemalla vallitsevan
+    säätilan.
 
 -   Annetaan 30min välein 20-yli ja 10-vaille:
 
@@ -416,6 +429,7 @@ Appstoret: AeroWeather
 ```
 
 ---
+template: title2
 
 # t12 - Uloshyppypaikan määritys (UHP / PM)
 
@@ -452,7 +466,7 @@ Appstoret: AeroWeather
 
 ---
 
-**Streamer - ajautuma varjon varassa**
+# Streamer - ajautuma varjon varassa
 
 - Saadaan oikea tarkka tieto varjon ajautumasta. Tai tarkka uloshyppypaikka,
   jos hyppykorkeus on alle 1000m.
@@ -474,16 +488,16 @@ Appstoret: AeroWeather
 
 # Ajautuminen vapaassa
 
--   voidaan määrittää, jos tunnetaan tuulet eri kerroksissa 1000 m:n ja
-    uloshyppykorkeuden välillä
+-   Voidaan määrittää, jos tunnetaan tuulet eri kerroksissa 1000 m:n ja
+    uloshyppykorkeuden välillä.
 
 -   UHP on AVAUSPAIKASTA ylätuulen suuntaan tuulen nopeus (m/s) kertaa
-    vapaapudotusaika (s)
+    vapaapudotusaika (s).
 
 -   YLÄTUULEN NOPEUS voidaan määrittää kolmella tavalla GAFOR 5000ft,
     sää lentopinnoilla -kartta tai laskemalla: lentokoneen ilmanopeus
     kertaa 1,1 (2km) ja vähennetään GPS:n näyttämä maanopeus. (Kerroin
-    on noin 1,3 @4km)
+    on noin 1,3 @4km).
 
 -   Koneen sortaminen linjalla ja muiden hyppääjien avauspaikkojen
     seuraaminen auttaa myös.
@@ -558,15 +572,15 @@ Appstoret: AeroWeather
 
 - Koneen lentoasento
 
-  -   nousussa → katsotaan liikaa eteenpäin
-  -   laskussa → katsotaan liikaa taaksepäin
-  -   kallellaan → katsotaan liikaa sivulle.
+  -   nousussa  katsotaan liikaa eteenpäin
+  -   laskussa  katsotaan liikaa taaksepäin
+  -   kallellaan  katsotaan liikaa sivulle.
 
 - Hyppääjän virheet
 
-  -   katsoo koneen sisältä → katsotaan liikaa sivulle
-  -   katsoo eteenpäin → ennakoi uloshyppyä liikaa
-  -   katsoo paikkaa udelleen kiipeämisen aikana → voi näyttää vaikka mitä.
+  -   katsoo koneen sisältä katsotaan liikaa sivulle
+  -   katsoo eteenpäin  ennakoi uloshyppyä liikaa
+  -   katsoo paikkaa udelleen kiipeämisen aikana  voi näyttää vaikka mitä.
 
 ---
 
@@ -582,7 +596,7 @@ Appstoret: AeroWeather
 
 - Tarvittaessa ajetaan uusi linja.
 
-- Ryhmien välit 8 – 10 s
+- Ryhmien välit 8-10 s
 
   -   kiipeämiseen kuluva aika otettava huomioon.
 
@@ -591,6 +605,7 @@ Appstoret: AeroWeather
 - **Varusteet on tarkastettava ennen uloshyppyä**.
 
 ---
+template: title2
 
 # t13 - Varusteiden tarkastus
 
@@ -612,7 +627,7 @@ Appstoret: AeroWeather
 
 ---
 
-# I vaihe – ennen varusteiden pukemista
+# I vaihe - ennen varusteiden pukemista
 
 -   Varusteiden varaaminen, painon, kokemuksen ja hyppymestarin ohjeiden
     mukaisesti.
@@ -631,7 +646,7 @@ Appstoret: AeroWeather
 
 ---
 
-# I vaihe – ennen varusteiden pukemista
+# I vaihe - ennen varusteiden pukemista
 
 - Muiden varusteiden kunto, toimivuus ja soveltuvuus hyppykäyttöön
 
@@ -653,7 +668,7 @@ Appstoret: AeroWeather
 
 ---
 
-# II vaihe – ennen koneeseen nousua
+# II vaihe - ennen koneeseen nousua
 
 - Varusteet on puettu oikein.
 
@@ -673,7 +688,7 @@ Appstoret: AeroWeather
 
 ---
 
-# III vaihe – ennen uloshyppyä
+# III vaihe - ennen uloshyppyä
 
 - Kypärä ja sormikkaat puettuina päälle.
 
@@ -695,7 +710,7 @@ pakkolaukaisuhihnan (RSL) lukko.
 
 ---
 
-# III vaihe – ennen uloshyppyä
+# III vaihe - ennen uloshyppyä
 
 - Hyppykaveri tarkastaa takaa, että läpät ovat kiinni
 
@@ -710,7 +725,7 @@ pakkolaukaisuhihnan (RSL) lukko.
 
 ---
 
-# IV vaihe – avauksen jälkeen
+# IV vaihe - avauksen jälkeen
 
 - Tehdään päätös: LENTÄÄ / EI LENNÄ
 
@@ -731,4 +746,5 @@ pakkolaukaisuhihnan (RSL) lukko.
 
 # Vaaratilanteet ja VV-toimenpiteet
 
-.center[![:scale 90%](./peruskoulutuskuvat/malfunction/biplano.jpg)]
+.center[![:scale 90%](./malfunction/biplane.jpg)]
+
