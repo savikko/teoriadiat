@@ -35,7 +35,7 @@ template: title
 
 .red[**DIOISSA PUUTTEITA TAI NE OVAT KESKEN VIELÄ**]
 
-![](./peruskoulutuskuvat/logo_sil.png)
+![](./tmpl/logo_sil.png)
 
 ---
 
