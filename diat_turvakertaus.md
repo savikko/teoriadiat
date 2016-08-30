@@ -2,7 +2,7 @@
 layout: true
 name: title
 class: middle, center
-background-image: url(./peruskoulutuskuvat/title_background.png)
+background-image: url(./tmpl/title_background.png)
 background-position: center
 background-size: no-repeat
 background-size: 100% 100%
@@ -35,7 +35,7 @@ template: title
 
 .red[**DIOISSA PUUTTEITA TAI NE OVAT KESKEN VIELÄ**]
 
-![](./peruskoulutuskuvat/logo_sil.png)
+![](./tmpl/logo_sil.png)
 
 ---
 
