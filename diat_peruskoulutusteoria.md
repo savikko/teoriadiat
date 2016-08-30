@@ -316,6 +316,8 @@ template: title2
 
 -   Huuda ja kuutntele, jos epäilet ettet ole ainoa pilvessä avannut
 
+---
+
 # Termiikki ja turbulenssi
 
 -   Termiikki eli nouseva ilmavirtaus muodostuu auringon lämmittämän
@@ -345,6 +347,8 @@ template: title2
 - Lämpötilan lasku on huomioitava pukeutumisessa
 
 - Käsineitä on käytettävä aina kun lämpötila on alle 0°C
+
+---
 
 # Säätila ja ennusteet
 
